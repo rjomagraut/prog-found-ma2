@@ -49,7 +49,9 @@ function logToConsole(fruite) {
   console.log(fruite);
 }
 // your answer for question 9 goes here
-logToConsole('donkey');
-// question 10
 
+// question 10
+function logToConsole(fruite) {
+  console.log('donkey');
+}
 // your answer for question 10 goes here
